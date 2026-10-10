@@ -4,3 +4,4 @@ One small thing learned or built each day — notes, snippets, and solved proble
 
 | Date | Topic |
 |------|-------|
+| 2026-10-10 | Git: branches, PRs and merges |
