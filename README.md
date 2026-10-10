@@ -20,3 +20,4 @@ One small thing learned or built each day — notes, snippets, and solved proble
 | 2026-10-10 | Linux: run a command after logout |
 | 2026-10-10 | Python: dict merge |
 | 2026-10-10 | Python: enumerate with start |
+| 2026-10-10 | Python: f-string debugging |
