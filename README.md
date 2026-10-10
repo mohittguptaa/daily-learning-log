@@ -8,3 +8,4 @@ One small thing learned or built each day — notes, snippets, and solved proble
 | 2026-10-10 | Bash: set -e and safe scripts |
 | 2026-10-10 | Frappe: run code in bench console |
 | 2026-10-10 | Frappe: get a single field fast |
+| 2026-10-10 | Frappe: clear cache after changes |
