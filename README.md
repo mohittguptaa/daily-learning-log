@@ -6,3 +6,4 @@ One small thing learned or built each day — notes, snippets, and solved proble
 |------|-------|
 | 2026-10-10 | Git: branches, PRs and merges |
 | 2026-10-10 | Bash: set -e and safe scripts |
+| 2026-10-10 | Frappe: run code in bench console |
