@@ -15,3 +15,4 @@ One small thing learned or built each day — notes, snippets, and solved proble
 | 2026-10-10 | Git: find which commit broke something |
 | 2026-10-10 | Git: stash including untracked files |
 | 2026-10-10 | Linux: find large files |
+| 2026-10-10 | Linux: see what is using a port |
