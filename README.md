@@ -10,3 +10,7 @@ One small thing learned or built each day — notes, snippets, and solved proble
 | 2026-10-10 | Frappe: get a single field fast |
 | 2026-10-10 | Frappe: clear cache after changes |
 | 2026-10-10 | Frappe: hooks doc_events |
+| 2026-10-10 | Git: undo the last commit but keep changes |
+| 2026-10-10 | Git: amend without editing message |
+| 2026-10-10 | Git: find which commit broke something |
+| 2026-10-10 | Git: stash including untracked files |
