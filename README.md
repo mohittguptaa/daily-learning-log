@@ -25,3 +25,4 @@ One small thing learned or built each day — notes, snippets, and solved proble
 | 2026-10-10 | SQL: count per group with filter |
 | 2026-10-10 | SQL: LEFT JOIN to find missing rows |
 | 2026-10-10 | SQL: COALESCE for defaults |
+| 2026-10-12 | Docker: clean up space |
