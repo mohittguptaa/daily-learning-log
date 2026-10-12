@@ -38,3 +38,4 @@ One small thing learned or built each day — notes, snippets, and solved proble
 | 2026-10-12 | JS: destructuring with defaults |
 | 2026-10-12 | JS: Promise.all |
 | 2026-10-12 | JS: debounce input |
+| 2026-10-12 | Linux: count lines in many files |
