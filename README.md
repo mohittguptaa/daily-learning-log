@@ -40,3 +40,4 @@ One small thing learned or built each day — notes, snippets, and solved proble
 | 2026-10-12 | JS: debounce input |
 | 2026-10-12 | Linux: count lines in many files |
 | 2026-10-12 | Linux: kill a process by port |
+| 2026-10-12 | Linux: create nested dirs |
