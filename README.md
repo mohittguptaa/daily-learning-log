@@ -46,3 +46,5 @@ One small thing learned or built each day — notes, snippets, and solved proble
 | 2026-10-12 | Python: unpack with star |
 | 2026-10-12 | Regex: non-greedy match |
 | 2026-10-12 | Regex: named groups |
+| 2026-10-12 | SQL: CASE in SELECT |
+| 2026-10-12 | SQL: delete duplicates keeping one |
