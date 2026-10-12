@@ -36,3 +36,4 @@ One small thing learned or built each day — notes, snippets, and solved proble
 | 2026-10-12 | HTTP: idempotent methods |
 | 2026-10-12 | HTTP: curl with headers |
 | 2026-10-12 | JS: destructuring with defaults |
+| 2026-10-12 | JS: Promise.all |
