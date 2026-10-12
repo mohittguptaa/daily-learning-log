@@ -30,3 +30,5 @@ One small thing learned or built each day — notes, snippets, and solved proble
 | 2026-10-12 | Frappe: get doc as dict |
 | 2026-10-12 | Frappe: realtime events |
 | 2026-10-12 | Frappe: rename a document |
+| 2026-10-12 | Git: show a file from another branch |
+| 2026-10-12 | Git: rename a branch |
