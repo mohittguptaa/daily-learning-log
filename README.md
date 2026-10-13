@@ -53,3 +53,4 @@ One small thing learned or built each day — notes, snippets, and solved proble
 | 2026-10-13 | CSS: center anything |
 | 2026-10-13 | CSS: responsive images |
 | 2026-10-13 | CSS: custom properties |
+| 2026-10-13 | Docker: inspect a container |
