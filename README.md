@@ -71,3 +71,4 @@ One small thing learned or built each day — notes, snippets, and solved proble
 | 2026-10-13 | Python: any type hint |
 | 2026-10-13 | Python: context manager helper |
 | 2026-10-13 | Python: timing code |
+| 2026-10-13 | SQL: date filtering |
