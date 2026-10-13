@@ -73,3 +73,5 @@ One small thing learned or built each day — notes, snippets, and solved proble
 | 2026-10-13 | Python: timing code |
 | 2026-10-13 | SQL: date filtering |
 | 2026-10-13 | SQL: top N per group |
+| 2026-10-13 | Testing: pytest basics |
+| 2026-10-13 | Testing: pytest fixtures |
