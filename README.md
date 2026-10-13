@@ -66,3 +66,4 @@ One small thing learned or built each day — notes, snippets, and solved proble
 | 2026-10-13 | HTTP: caching headers |
 | 2026-10-13 | JS: array includes |
 | 2026-10-13 | JS: object shorthand |
+| 2026-10-13 | Linux: environment variables |
