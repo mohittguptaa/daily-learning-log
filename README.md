@@ -64,3 +64,4 @@ One small thing learned or built each day — notes, snippets, and solved proble
 | 2026-10-13 | Git: search code history |
 | 2026-10-13 | HTTP: CORS basics |
 | 2026-10-13 | HTTP: caching headers |
+| 2026-10-13 | JS: array includes |
