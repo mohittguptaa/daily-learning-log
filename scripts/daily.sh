@@ -17,7 +17,7 @@ for pr in "$src"/*/; do
     echo "| $today | $title |" >> README.md
     git add . && git commit -qm "$title" -m "Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>"
   done
-  git push -qu origin "$branch" 2>/dev/null
+  for t in 1 2 3; do git push -qu origin "$branch" 2>/dev/null && break; sleep 5; done
   url=$(gh pr create -t "$today: $topic" -b "Daily learning notes on $topic." -B main -H "$branch")
   gh pr merge "$url" --merge --delete-branch >/dev/null
   git checkout -q main && git pull -q
