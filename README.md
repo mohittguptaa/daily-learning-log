@@ -50,3 +50,6 @@ One small thing learned or built each day — notes, snippets, and solved proble
 | 2026-10-12 | SQL: delete duplicates keeping one |
 | 2026-10-12 | VS Code: multi-cursor |
 | 2026-10-12 | VS Code: go to symbol |
+| 2026-10-13 | CSS: center anything |
+| 2026-10-13 | CSS: responsive images |
+| 2026-10-13 | CSS: custom properties |
