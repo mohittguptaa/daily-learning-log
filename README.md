@@ -55,3 +55,4 @@ One small thing learned or built each day — notes, snippets, and solved proble
 | 2026-10-13 | CSS: custom properties |
 | 2026-10-13 | Docker: inspect a container |
 | 2026-10-13 | Docker: healthchecks |
+| 2026-10-13 | Docker: copy files |
