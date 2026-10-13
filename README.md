@@ -68,3 +68,4 @@ One small thing learned or built each day — notes, snippets, and solved proble
 | 2026-10-13 | JS: object shorthand |
 | 2026-10-13 | Linux: environment variables |
 | 2026-10-13 | Linux: redirect stderr |
+| 2026-10-13 | Python: any type hint |
