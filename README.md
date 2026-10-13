@@ -59,3 +59,6 @@ One small thing learned or built each day — notes, snippets, and solved proble
 | 2026-10-13 | Frappe: get current date |
 | 2026-10-13 | Frappe: add days |
 | 2026-10-13 | Frappe: send email |
+| 2026-10-13 | Git: see changes in a commit |
+| 2026-10-13 | Git: search commit messages |
+| 2026-10-13 | Git: search code history |
