@@ -81,3 +81,4 @@ One small thing learned or built each day — notes, snippets, and solved proble
 | 2026-10-14 | Frappe: currency formatting |
 | 2026-10-14 | Frappe: session defaults |
 | 2026-10-14 | Git: list merged branches |
+| 2026-10-14 | Git: ignore file locally only |
