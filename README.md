@@ -95,3 +95,6 @@ One small thing learned or built each day — notes, snippets, and solved proble
 | 2026-10-14 | React: keys in lists |
 | 2026-10-14 | React: useEffect cleanup |
 | 2026-10-14 | React: derived state |
+| 2026-10-14 | Security: never commit secrets |
+| 2026-10-14 | Security: parameterized queries |
+| 2026-10-14 | Security: hash passwords |
