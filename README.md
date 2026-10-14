@@ -92,3 +92,4 @@ One small thing learned or built each day — notes, snippets, and solved proble
 | 2026-10-14 | Node: ES modules |
 | 2026-10-14 | Python: enum |
 | 2026-10-14 | Python: sets for membership |
+| 2026-10-14 | React: keys in lists |
