@@ -98,3 +98,5 @@ One small thing learned or built each day — notes, snippets, and solved proble
 | 2026-10-14 | Security: never commit secrets |
 | 2026-10-14 | Security: parameterized queries |
 | 2026-10-14 | Security: hash passwords |
+| 2026-10-14 | SQL: upsert in MariaDB |
+| 2026-10-14 | SQL: show running queries |
