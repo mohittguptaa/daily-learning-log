@@ -77,3 +77,6 @@ One small thing learned or built each day — notes, snippets, and solved proble
 | 2026-10-13 | Testing: pytest fixtures |
 | 2026-10-14 | Docker: restart policy |
 | 2026-10-14 | Docker: named volumes |
+| 2026-10-14 | Frappe: db.get_list as dict |
+| 2026-10-14 | Frappe: currency formatting |
+| 2026-10-14 | Frappe: session defaults |
