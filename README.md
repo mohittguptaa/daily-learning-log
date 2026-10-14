@@ -85,3 +85,4 @@ One small thing learned or built each day — notes, snippets, and solved proble
 | 2026-10-14 | JS: structuredClone |
 | 2026-10-14 | JS: Array.at |
 | 2026-10-14 | JS: Object.entries |
+| 2026-10-14 | Linux: check open files |
