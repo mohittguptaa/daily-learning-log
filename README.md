@@ -103,3 +103,4 @@ One small thing learned or built each day — notes, snippets, and solved proble
 | 2026-10-15 | API: pagination styles |
 | 2026-10-15 | API: versioning |
 | 2026-10-15 | DevOps: health endpoints |
+| 2026-10-15 | DevOps: blue-green deploys |
