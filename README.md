@@ -110,3 +110,4 @@ One small thing learned or built each day — notes, snippets, and solved proble
 | 2026-10-15 | Frappe: get meta |
 | 2026-10-15 | Frappe: report filters in JS |
 | 2026-10-15 | Git: worktrees |
+| 2026-10-15 | Git: partial staging |
