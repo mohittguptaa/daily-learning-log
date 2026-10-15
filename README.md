@@ -112,3 +112,4 @@ One small thing learned or built each day — notes, snippets, and solved proble
 | 2026-10-15 | Git: worktrees |
 | 2026-10-15 | Git: partial staging |
 | 2026-10-15 | JS: optional catch binding |
+| 2026-10-15 | JS: template literals |
