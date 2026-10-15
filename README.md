@@ -119,3 +119,4 @@ One small thing learned or built each day — notes, snippets, and solved proble
 | 2026-10-15 | Python: requests timeout |
 | 2026-10-15 | Python: logging over print |
 | 2026-10-15 | Python: f-string formatting |
+| 2026-10-15 | SQL: string concat in MariaDB |
