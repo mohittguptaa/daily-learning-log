@@ -116,3 +116,4 @@ One small thing learned or built each day — notes, snippets, and solved proble
 | 2026-10-15 | Linux: archive and compress |
 | 2026-10-15 | Linux: who is logged in |
 | 2026-10-15 | Linux: system uptime |
+| 2026-10-15 | Python: requests timeout |
