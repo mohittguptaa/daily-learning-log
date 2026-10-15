@@ -123,3 +123,4 @@ One small thing learned or built each day — notes, snippets, and solved proble
 | 2026-10-15 | SQL: limit with offset |
 | 2026-10-15 | SQL: EXISTS vs IN |
 | 2026-10-15 | TS: type vs interface |
+| 2026-10-15 | TS: Partial and Pick |
